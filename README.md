@@ -21,5 +21,3 @@ I'm [Your Name], a passionate developer from [Your Location]. I love coding and 
 ## Stats
 ![syhrlanwr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syhrlanwr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![syhrlanwr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=syhrlanwr&theme=vue-dark&hide_border=true)
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
